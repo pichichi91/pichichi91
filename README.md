@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+Welcome to my ✨ profile ✨ - I am **Philippe/Felipe** and I'm a swiss-based software engineer, pursuing the location independent life 🌎 More about me (and my projects) can be found on [feeelip.com](https://feeelip.com)
+
 <!--
-**pichichi91/pichichi91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pichichi91/pichichi91**  `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
