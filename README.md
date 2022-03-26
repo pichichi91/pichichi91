@@ -5,6 +5,7 @@ Welcome to my ✨ profile ✨ I am mainly focusing on frontend / fullstack proje
 
 - 🔭 Lately I've been mainly working with React / NextJS / Python / Tailwindcss / Bootstrap. 
 - 👯 Happy to collaborate with any frontend based role
+- ✨ Despite web dev, remote work and startups, I am passionate really about football and photography 
 - 📫 How to reach me: feeelip.com
 
 
